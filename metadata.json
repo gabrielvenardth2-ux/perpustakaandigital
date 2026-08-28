@@ -1,0 +1,7 @@
+{
+  "name": "Perpustakaan Digital",
+  "description": "Aplikasi web Perpustakaan Digital modern berbasis Google Sheets & Google Apps Script untuk Siswa dan Guru/Admin sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
